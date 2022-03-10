@@ -1,0 +1,15 @@
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\ThirdQuestion\bin\Debug\net6.0\ThirdQuestion.exe
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\ThirdQuestion\bin\Debug\net6.0\ThirdQuestion.deps.json
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\ThirdQuestion\bin\Debug\net6.0\ThirdQuestion.runtimeconfig.json
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\ThirdQuestion\bin\Debug\net6.0\ThirdQuestion.dll
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\ThirdQuestion\bin\Debug\net6.0\ThirdQuestion.pdb
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\ThirdQuestion\obj\Debug\net6.0\ThirdQuestion.csproj.AssemblyReference.cache
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\ThirdQuestion\obj\Debug\net6.0\ThirdQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\ThirdQuestion\obj\Debug\net6.0\ThirdQuestion.AssemblyInfoInputs.cache
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\ThirdQuestion\obj\Debug\net6.0\ThirdQuestion.AssemblyInfo.cs
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\ThirdQuestion\obj\Debug\net6.0\ThirdQuestion.csproj.CoreCompileInputs.cache
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\ThirdQuestion\obj\Debug\net6.0\ThirdQuestion.dll
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\ThirdQuestion\obj\Debug\net6.0\refint\ThirdQuestion.dll
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\ThirdQuestion\obj\Debug\net6.0\ThirdQuestion.pdb
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\ThirdQuestion\obj\Debug\net6.0\ThirdQuestion.genruntimeconfig.cache
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\ThirdQuestion\obj\Debug\net6.0\ref\ThirdQuestion.dll

@@ -1,0 +1,15 @@
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\SecondQuestion\obj\Debug\net6.0\SecondQuestion.csproj.AssemblyReference.cache
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\SecondQuestion\obj\Debug\net6.0\SecondQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\SecondQuestion\obj\Debug\net6.0\SecondQuestion.AssemblyInfoInputs.cache
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\SecondQuestion\obj\Debug\net6.0\SecondQuestion.AssemblyInfo.cs
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\SecondQuestion\obj\Debug\net6.0\SecondQuestion.csproj.CoreCompileInputs.cache
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\SecondQuestion\bin\Debug\net6.0\SecondQuestion.exe
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\SecondQuestion\bin\Debug\net6.0\SecondQuestion.deps.json
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\SecondQuestion\bin\Debug\net6.0\SecondQuestion.runtimeconfig.json
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\SecondQuestion\bin\Debug\net6.0\SecondQuestion.dll
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\SecondQuestion\bin\Debug\net6.0\SecondQuestion.pdb
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\SecondQuestion\obj\Debug\net6.0\SecondQuestion.dll
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\SecondQuestion\obj\Debug\net6.0\refint\SecondQuestion.dll
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\SecondQuestion\obj\Debug\net6.0\SecondQuestion.pdb
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\SecondQuestion\obj\Debug\net6.0\SecondQuestion.genruntimeconfig.cache
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\SecondQuestion\obj\Debug\net6.0\ref\SecondQuestion.dll

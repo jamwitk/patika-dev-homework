@@ -1,0 +1,15 @@
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\KolleksiyonOdevi\bin\Debug\net6.0\KolleksiyonOdevi.exe
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\KolleksiyonOdevi\bin\Debug\net6.0\KolleksiyonOdevi.deps.json
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\KolleksiyonOdevi\bin\Debug\net6.0\KolleksiyonOdevi.runtimeconfig.json
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\KolleksiyonOdevi\bin\Debug\net6.0\KolleksiyonOdevi.dll
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\KolleksiyonOdevi\bin\Debug\net6.0\KolleksiyonOdevi.pdb
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\KolleksiyonOdevi\obj\Debug\net6.0\KolleksiyonOdevi.csproj.AssemblyReference.cache
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\KolleksiyonOdevi\obj\Debug\net6.0\KolleksiyonOdevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\KolleksiyonOdevi\obj\Debug\net6.0\KolleksiyonOdevi.AssemblyInfoInputs.cache
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\KolleksiyonOdevi\obj\Debug\net6.0\KolleksiyonOdevi.AssemblyInfo.cs
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\KolleksiyonOdevi\obj\Debug\net6.0\KolleksiyonOdevi.csproj.CoreCompileInputs.cache
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\KolleksiyonOdevi\obj\Debug\net6.0\KolleksiyonOdevi.dll
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\KolleksiyonOdevi\obj\Debug\net6.0\refint\KolleksiyonOdevi.dll
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\KolleksiyonOdevi\obj\Debug\net6.0\KolleksiyonOdevi.pdb
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\KolleksiyonOdevi\obj\Debug\net6.0\KolleksiyonOdevi.genruntimeconfig.cache
+C:\Users\hushd\Desktop\Software Architecture\KolleksiyonOdeviSolution\KolleksiyonOdevi\obj\Debug\net6.0\ref\KolleksiyonOdevi.dll
